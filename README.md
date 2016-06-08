@@ -132,3 +132,4 @@ At Iteration 3, the blocks took an average of 21.68iterations.
 Average Residual at iteration 3is:0.0001
 At Iteration 4, the blocks took an average of 21.66iterations.
 Average Residual at iteration 4is:0.0000
+# CS5300proj2
